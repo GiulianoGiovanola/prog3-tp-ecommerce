@@ -1,4 +1,7 @@
-#  Tienda de Cafe Station
+#  Eccomerce de Cafe Station
+
+## Deployed on Vercel
+https://prog3-ecommerce-2021.vercel.app/
 
 # Components
 
@@ -56,3 +59,9 @@ Funciones reutilizables para obtener las categorías desde Firebase, utilizadas 
 
 ### base de  fuego / índice
 Configuración de firebase desde .env
+
+## Future improvments (Course out of scope)
+
+- Agregar las opciones de agregar, quitar y eliminar producto 
+- Agregar separado de productos, cantidad y precio
+- Mejoras de diseño
