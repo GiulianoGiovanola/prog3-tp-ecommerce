@@ -3,7 +3,7 @@
 ## Deployed on Vercel
 https://prog3-ecommerce-2021.vercel.app/
 
-# Components
+## Components
 
 ###  Aplicación
 Wrapper principal de la aplicación con React Router.
