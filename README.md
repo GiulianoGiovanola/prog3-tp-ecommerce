@@ -9,18 +9,15 @@ Wrapper principal de la aplicación con React Router.
 Botón reutilizable en diferentes componentes.
 
 ###  Carrito
-Carrito de compras con resumen de productos agregados y posibilidad de editar cantidades.
+Carrito de compras con resumen de productos agregados y cantidades.
 
 ###  CartContainer
 Contenedor del carrito.
 
-###  CartItemCount
-Contador de productos en el carrito desde el Contexto del carrito.
-
-###  CartWidget
+###  Cart
 Icono de cart en el Navbar.
 
-###  Pagar
+###  Checkout
 Contenido del pago. Formulario y resumen del carrito.
 
 ###  CajaContenedor
@@ -29,22 +26,16 @@ Contenedor del Checkout.
 ###  ChechoutForm
 Formulario de checkout con nombre, email y teléfono. Los datos se validan para completar la orden.
 
-###  Pie de página
+###  Footer
 Footer de la aplicación con links a páginas y categorías.
 
-###  ItemCount
-Contador de productos en el carrito.
-
-###  ItemDetail
-Detalle de producto.
-
-###  ItemDetailContainer
+###  Product
 Contenedor de detalle de producto.
 
-###  ItemList
-Grilla de Items (productos).
+###  Grid
+Grilla de productos.
 
-###  ItemListContainer
+###  Product Card
 Contenedor de listado de productos para categorías.
 
 ###  Cargando
@@ -52,9 +43,6 @@ Svg de loading para llamadas asincrónicas a Firebase. Simula un cafe dando vuel
 
 ###  NavBar
 Header y navbar con categorías principales.
-
-###  SectionHeader
-Componente reutilizable para encabezados de páginas y categorías. Recibe un título y una descipción.
 
 ##  Contextos
 
