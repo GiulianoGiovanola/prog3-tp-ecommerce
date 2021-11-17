@@ -8,6 +8,7 @@ padding: 1em;
 font-size: 16px;
 box-shadow: 0px 10px 20px -5px #333030;
 border: none;
+cursor: pointer;
 
 a{
     color: #fff;
