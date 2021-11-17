@@ -6,7 +6,7 @@ const Container = styled.div`
 
   button{
     margin: 1em;
-    padding: 1em 0.75em;
+    padding: 1em;
     background-color: #fa2b57;
     border: none;
     color: #fff;
